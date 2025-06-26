@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nazwa": "Jastrzębski Węgiel",
+    "miasto": "Jastrzębie-Zdrój",
+    "trener": "Marcelo Méndez",
+    "punkty": 68,
+    "pozycja": 1,
+    "sklad": [
+      {"imie_nazwisko": "Łukasz Kaczmarek", "pozycja": "atakujący"},
+      {"imie_nazwisko": "Tomasz Fornal", "pozycja": "przyjmujący"}
+    ]
+  }
+]
