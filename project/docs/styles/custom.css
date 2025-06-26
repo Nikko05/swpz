@@ -1,0 +1,42 @@
+/* Custom volleyball theme styling */
+
+body {
+  background-color: #fff;
+}
+
+.md-header {
+  background-color: #dc143c;
+  /* Polish red */
+}
+
+.md-nav__title {
+  font-weight: bold;
+}
+
+h1,
+h2,
+h3 {
+  color: #dc143c;
+}
+
+a {
+  color: #dc143c;
+}
+
+a:hover {
+  color: #a30e2e;
+}
+
+/* Optional volleyball background for header */
+.md-header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 120px;
+  height: 100%;
+  background: url('../assets/volleyball-logo.png') no-repeat center right;
+  background-size: contain;
+  opacity: 0.1;
+  pointer-events: none;
+}

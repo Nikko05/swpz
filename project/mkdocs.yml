@@ -1,6 +1,35 @@
-site_name: My Docs
-site_name: MkLorum
+site_name: Polish Volleyball Hub
+site_url: https://your-site-url.com
 nav:
   - Home: index.md
-  - About: about.md
-theme: readthedocs
+  - About Me: about.md
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: red
+    accent: white
+  font:
+    text: "Roboto"
+    code: "JetBrains Mono"
+  logo: assets/volleyball-logo.png  # Optional custom logo
+  favicon: assets/favicon.ico        # Optional favicon
+
+extra_css:
+  - styles/custom.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/yourhandle
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/yourchannel
+    - icon: fontawesome/solid/volleyball-ball
+      link: https://www.fivb.com/
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
