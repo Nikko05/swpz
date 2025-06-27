@@ -1,7 +1,7 @@
 site_name: Polish Volleyball Hub
 site_url: https://your-site-url.com
 nav:
-  - Home: home.md
+  - Home: index.md
   - About Me: about.md
   - Plus Liga Teams: teams.md
 

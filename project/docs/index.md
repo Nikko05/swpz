@@ -1,19 +1,41 @@
-# Welcome to MkDocs
+# Polish Volleyball Hub 🇵🇱🏐
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to **Polish Volleyball Hub**, your central source for everything about **PlusLiga**, the **Polish National Team**, and the vibrant volleyball scene in Poland.
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 📌 What's Here?
 
-## Project layout
+- 🏆 **PlusLiga Teams** – Explore all clubs in the Polish top division.
+- 🇵🇱 **National Team** – Get to know the players, history, and current competitions.
+- 🗞 **News & Highlights** – Stay updated with recent matches and developments.
+- 📅 **Fixtures & Results** – Follow upcoming games and scores.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
 
-## test
+## 🧭 Quick Navigation
+
+- [About Me](about.md)
+- [PlusLiga Teams](teams.md)
+- [National Poland Team](nationaltTeam.md)
+
+---
+
+## 📰 Latest Updates
+
+> 🗓️ June 2025 — Poland to compete in the Volleyball Nations League semifinals!  
+> 🏐 Resovia Rzeszów signs a new setter from Italy.  
+> 📈 PlusLiga viewership hits record numbers.
+
+---
+
+## 📷 Featured
+
+![Polish National Team in action](assets/national_team.jpg)
+
+---
+
+## 💬 Get Involved
+
+Love volleyball? Want to contribute? Reach out or check the GitHub repo to collaborate!
+

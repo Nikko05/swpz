@@ -1,29 +1,30 @@
-# About Me
+# About Us
 
-Hi! 👋 I'm a passionate volleyball enthusiast from Poland, and this site is my personal space to share everything I love about the sport — especially the Polish volleyball league (PlusLiga) and our incredible national team.
+Welcome to Polish Volleyball Hub! 👋  
+We’re a team of passionate volleyball enthusiasts based in Poland, united by our love for the sport — especially the thrilling action of PlusLiga and the pride of our national team.
 
 ### 🏐 Why Volleyball?
 
-I've followed volleyball for years. From the thrilling spikes to the nail-biting five-set matches, there's no sport that matches the pace, power, and precision of volleyball. The team spirit and the strategy behind every play keep me hooked season after season.
+Volleyball captures everything we admire in sport: intensity, teamwork, precision, and strategy. We've followed it for years — from breathtaking rallies to last-minute victories — and it continues to inspire and excite us.
 
 ### 🇵🇱 Poland’s League and National Team
 
-- **PlusLiga**: I regularly follow PlusLiga and support [your favorite team name here]. The league’s competitive edge and the rising talent make it one of the best in Europe.
-- **Polska Reprezentacja**: Nothing compares to the excitement of watching the Polish national team on the world stage — from the FIVB World Championships to the Olympics. The pride and unity they bring to the court is unmatched.
+- **PlusLiga**: We closely follow the Polish league, celebrating its depth of talent and fierce competitiveness. [Your favorite team name here] has a special place in our hearts.
+- **Polska Reprezentacja**: Our national team brings the country together with every serve and spike. Whether at the FIVB World Championships or the Olympics, they carry our hopes with pride.
 
 ### 📚 What You’ll Find Here
 
-This site is a growing collection of:
-- Match analysis and highlights
-- Player profiles
-- News and updates from PlusLiga
+This site is a growing hub of:
+- Match analyses and highlights
+- Player spotlights and profiles
+- The latest PlusLiga news
 - Commentary on national team performance
-- Historical context and stats
+- Historic moments and key stats
 
-Whether you're a longtime fan or just discovering the sport, I hope you find something here to enjoy. 🏆
+We created this space for fellow fans — whether you're a seasoned supporter or just discovering the game.
 
 ### 📬 Let’s Connect
 
-Have questions or want to share your thoughts? Reach out to me via [your email or social media link].
+Have feedback or want to collaborate? You can reach us at [your email or social media link].
 
-Thanks for visiting!
+Thanks for stopping by — and see you on the court! 🏆
