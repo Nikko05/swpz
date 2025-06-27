@@ -1,45 +1,36 @@
-site_name: Systemy Wspomagania Pracy Zespołowej
+site_name: Polish Volleyball Hub
+site_url: https://your-site-url.com
+nav:
+  - Home: home.md
+  - About Me: about.md
+  - Plus Liga Teams: teams.md
+
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - content.tabs
-    - header.autohide
   palette:
-    primary: 'indigo'
-    accent: 'amber'
+    scheme: default
+    primary: red
+    accent: white
   font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
-  logo: 'assets/logo.svg'
-  favicon: 'assets/favicon.ico'
+    text: "Roboto"
+    code: "JetBrains Mono"
+  # logo: assets/volleyball-logo.png  # Optional custom logo
+  # favicon: assets/favicon.ico        # Optional favicon
 
 extra_css:
-  - stylesheets/extra.css
-  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+  - styles/custom.css
 
-extra_javascript:
-  - javascripts/extra.js
-
-nav:
-  - Strona główna: index.md
-  - Projekt:
-      - Temat: projekt/temat.md
-      - Autorzy: projekt/autorzy.md
-  - Teoria:
-      - Podstawy: teoria/podstawy.md
-      - Narzędzia: teoria/narzedzia.md
-  - Praktyka:
-      - Instrukcje: praktyka/instrukcje.md
-      - Przykłady: przyklady.md
-  - Bezpieczeństwo: polityka_bezpieczenstwa.md
-  - Dokumentacja: dokumentacja.md
+extra:
+  social:
+    # - icon: fontawesome/brands/twitter
+    #   link: https://twitter.com/yourhandle
+    # - icon: fontawesome/brands/youtube
+    #   link: https://youtube.com/yourchannel
+    # - icon: fontawesome/solid/volleyball-ball
+    #   link: https://www.fivb.com/
 
 markdown_extensions:
-  - attr_list
-  - md_in_html
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed
-  - pymdownx.tasklist
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
