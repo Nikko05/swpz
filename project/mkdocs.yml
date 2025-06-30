@@ -33,5 +33,8 @@ extra:
 markdown_extensions:
   - admonition
   - codehilite
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets
   - toc:
       permalink: true
