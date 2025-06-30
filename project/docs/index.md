@@ -15,7 +15,7 @@ Welcome to **Polish Volleyball Hub**, your central source for everything about *
 
 ## 🧭 Quick Navigation
 
-- [About Me](about.md)
+- [About Us](about.md)
 - [PlusLiga Teams](teams.md)
 - [National Poland Team](nationaltTeam.md)
 
@@ -31,7 +31,7 @@ Welcome to **Polish Volleyball Hub**, your central source for everything about *
 
 ## 📷 Featured
 
-![Polish National Team in action](assets/national_team.jpg)
+![Polish National Team in action](assets/polandNationalTeam.avif)
 
 ---
 
