@@ -15,20 +15,9 @@ theme:
   font:
     text: "Roboto"
     code: "JetBrains Mono"
-  # logo: assets/volleyball-logo.png  # Optional custom logo
-  # favicon: assets/favicon.ico        # Optional favicon
 
 extra_css:
   - styles/custom.css
-
-extra:
-  social:
-    # - icon: fontawesome/brands/twitter
-    #   link: https://twitter.com/yourhandle
-    # - icon: fontawesome/brands/youtube
-    #   link: https://youtube.com/yourchannel
-    # - icon: fontawesome/solid/volleyball-ball
-    #   link: https://www.fivb.com/
 
 markdown_extensions:
   - admonition

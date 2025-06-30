@@ -66,3 +66,26 @@ a:hover {
   margin-top: 0;
   color: #b71c1c;
 }
+
+.teams-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.team-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border: 1px solid #eee;
+}
+
+.team-card h3 {
+  margin-top: 0;
+}
+
+.team-card ul {
+  padding-left: 1.2rem;
+}
