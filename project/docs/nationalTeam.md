@@ -82,7 +82,9 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 ## 🏐 Current Polish National Team Squad
 
-## 🔥 Opposites
+---
+
+### 🔥 Opposites
 - **Opposite** - Primary attacker, usually plays from the right side and doesn't participate in reception.
 <div class="player-grid">
 
@@ -118,7 +120,7 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 </div>
 
-## 📊 Player Comparison: Opposites
+### 📊 Player Comparison: Opposites
 
 | Player           | Height | Weight | Spike Reach | Block Reach |
 |------------------|--------|--------|-------------|-------------|
@@ -128,7 +130,7 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 ---
 
-## 🧱 Middle Blockers
+### 🧱 Middle Blockers
 - **Middle Blocker** – Specializes in fast attacks near the setter and blocks the center of the net.
 <div class="player-grid">
 
@@ -164,7 +166,7 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 </div>
 
-## 📊 Player Comparison: Middle Blockers
+### 📊 Player Comparison: Middle Blockers
 
 | Player            | Height | Weight | Block Reach | Attack Reach |
 |-------------------|--------|--------|-------------|--------------|
@@ -174,7 +176,7 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 ---
 
-## 🎯 Setters
+### 🎯 Setters
 - **Setter** – The team's playmaker, responsible for ball distribution and setting the tempo.
 <div class="player-grid">
 
@@ -200,7 +202,7 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 </div>
 
-## 📊 Player Comparison: Setters
+### 📊 Player Comparison: Setters
 
 | Player          | Height | Weight | Jump Reach | Setting Style |
 |----------------|--------|--------|------------|---------------|
@@ -209,7 +211,7 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 ---
 
-## 🛡️ Liberos
+### 🛡️ Liberos
 - **Libero** – Defensive specialist wearing a different-colored jersey, focused on reception and digging.
 <div class="player-grid">
 
@@ -235,7 +237,7 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 </div>
 
-## 📊 Player Comparison: Liberos
+### 📊 Player Comparison: Liberos
 
 | Player        | Height | Weight | Reception % | Digs per Set |
 |---------------|--------|--------|-------------|--------------|
@@ -244,7 +246,7 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 ---
 
-## 🌟 Outside Hitters
+### 🌟 Outside Hitters
 - **Outside Hitter** – All-around player responsible for both attack and reception, primarily from the left side.
 <div class="player-grid">
 
@@ -280,7 +282,7 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 </div>
 
-## 📊 Player Comparison: Outside Hitters
+### 📊 Player Comparison: Outside Hitters
 
 | Player         | Height | Weight | Attack % | Reception % |
 |----------------|--------|--------|----------|-------------|
