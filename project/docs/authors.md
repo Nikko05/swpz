@@ -1,43 +1,43 @@
-# 👥 Autorzy projektu
+# 👥 Project Authors
 
-## 🎓 Informacje o zespole
+## 🎓 Team Information
 
-**Kierownik projektu:** Nikodem Kusiak 
-**Współautor:** Kacper Mucha
+**Project Lead:** xyz  
+**Co-author:** Kacper Mucha
 
-Projekt realizowany w ramach przedmiotu **Systemy Wspomagania Pracy Zespołowej**.  
-Głównym celem było stworzenie dokumentacji i narzędzia wizualizującego dane siatkarskie z wykorzystaniem **MkDocs** oraz zasad pracy zespołowej w środowisku Git.
-
----
-
-## 🛠️ Podział ról
-
-| Autor          | Zadania                                                                        |
-|----------------|--------------------------------------------------------------------------------|
-| Nikodem Kusiak | Inicjalizacja projektu, struktura strony, konfiguracja MkDocs, druzna narodowa |
-| Kacper Mucha   | Projekt graficzny, przygotowanie treści, integracja zespołów PlusLigi          |
-| Wspólnie       | Testowanie, wspólna edycja plików, przygotowanie repozytorium                  |
+Project developed as part of the **Teamwork Support Systems** course.  
+The main goal was to create documentation and a data visualization tool for volleyball statistics using **MkDocs** while implementing Git teamwork principles.
 
 ---
 
-## 📁 Repozytoria
+## 🛠️ Role Distribution
 
-- **Repozytorium deweloperskie (DEV):** [GitHub - dev-repo](https://github.com/Nikko05/swpz.git)
-- **Repozytorium produkcyjne (PROD):** [GitHub - prod-repo](https://github.com/Nikko05/swpz.git)
-
----
-
-## 🔍 Historia pracy
-
-Projekt tworzony był w duchu pracy zespołowej:
-- Naprzemienne commity w tych samych plikach
-- Testowanie w repozytorium deweloperskim
-- Opisy commitów odzwierciedlające faktyczne zmiany
-- Dbałość o estetykę i użyteczność końcowego produktu
+| Author         | Responsibilities                                                                 |
+|----------------|----------------------------------------------------------------------------------|
+| Nikodem Kusiak | Project initialization, site structure, MkDocs configuration, national team data |
+| Kacper Mucha   | Graphic design, content preparation, PlusLiga teams integration                  |
+| Collaboratively| Testing, joint file editing, repository preparation                              |
 
 ---
 
-## 📬 Kontakt
+## 📁 Repositories
 
+- **Development Repository (DEV):** [GitHub - dev-repo](https://github.com/Nikko05/swpz.git)
+- **Production Repository (PROD):** [GitHub - prod-repo](https://github.com/Nikko05/swpz.git)
+
+---
+
+## 🔍 Work History
+
+The project was developed following teamwork best practices:
+- Alternating commits to the same files
+- Testing in the development repository
+- Descriptive commit messages reflecting actual changes
+- Emphasis on aesthetics and end-product usability
+
+---
+
+## 📬 Contact
 - 📧 Nikodem Kusiak – nikusiak@student.agh.edu.pl
 - 📧 Kacper Mucha – kmucha@srudent.agh.edu.pl
+[Your contact information here]
