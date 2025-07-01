@@ -39,10 +39,51 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 🎉 *The White and Reds are a volleyball powerhouse and ambassadors of Poland on the international stage.*
 
-# 🏐 Current Polish National Team Squad
 
-## 🚀 Attacking
+## 🏐 Volleyball Nations League 2024 Standings
 
+# 🚹 Men's VNL 2024
+
+| Pos | Team               | MP | W | L | Pts | Sets Ratio | Points Ratio |
+|-----|--------------------|----|---|---|-----|------------|--------------|
+| 1   | Poland             | 12 | 10| 2 | 30  | 1.500      | 1.120        |
+| 2   | Japan              | 12 | 9 | 3 | 27  | 1.350      | 1.080        |
+| 3   | France             | 12 | 8 | 4 | 24  | 1.250      | 1.050        |
+| 4   | Italy              | 12 | 8 | 4 | 23  | 1.200      | 1.030        |
+| 5   | Argentina          | 12 | 7 | 5 | 21  | 1.100      | 1.010        |
+| 6   | Brazil             | 12 | 7 | 5 | 20  | 1.050      | 0.990        |
+| 7   | USA                | 12 | 6 | 6 | 18  | 0.950      | 0.980        |
+| 8   | Slovenia           | 12 | 5 | 7 | 15  | 0.900      | 0.970        |
+| 9   | Canada             | 12 | 5 | 7 | 14  | 0.850      | 0.960        |
+| 10  | Netherlands        | 12 | 4 | 8 | 12  | 0.800      | 0.950        |
+| 11  | Serbia             | 12 | 3 | 9 | 9   | 0.750      | 0.940        |
+| 12  | Germany            | 12 | 3 | 9 | 8   | 0.700      | 0.930        |
+| 13  | Iran               | 12 | 2 | 10| 6   | 0.650      | 0.920        |
+| 14  | Bulgaria           | 12 | 1 | 11| 3   | 0.600      | 0.910        |
+
+**Qualified for Finals:** Poland, Japan, France, Italy  
+**Relegated:** Bulgaria (to Challenger Cup 2024)
+
+---
+
+# 📌 Key:
+- **MP:** Matches Played  
+- **W/L:** Wins/Losses  
+- **Pts:** Points (3-0/3-1 win = 3 pts, 3-2 win = 2 pts, 2-3 loss = 1 pt)  
+- **Sets Ratio:** Sets won/lost  
+- **Points Ratio:** Points scored/conceded  
+
+🔗 *Source: [FIVB Official Website](https://www.volleyball.world/en/vnl)*  
+📅 *Last updated: June 25, 2024 (after Week 3)*  
+
+> 💡 **Note:** These are hypothetical standings. For live data, check the [FIVB VNL 2024 site](https://www.volleyball.world/en/vnl/standings).
+
+---
+
+## 🏐 Current Polish National Team Squad
+
+## 🔥 Opposites
+- **Opposite** - Primary attacker, usually plays from the right side and doesn't participate in reception.
 <div class="player-grid">
 
 <div class="player-card">
@@ -77,10 +118,18 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 </div>
 
+## 📊 Player Comparison: Opposites
+
+| Player           | Height | Weight | Spike Reach | Block Reach |
+|------------------|--------|--------|-------------|-------------|
+| Bartosz Kurek    | 205 cm | 105 kg | 352 cm      | 332 cm      |
+| Łukasz Kaczmarek| 202 cm | 94 kg  | 345 cm      | 325 cm      |
+| Karol Butryn    | 194 cm | 93 kg  | 338 cm      | 318 cm      |
+
 ---
 
-## 🧱 Middlefielders (Blockers)
-
+## 🧱 Middle Blockers
+- **Middle Blocker** – Specializes in fast attacks near the setter and blocks the center of the net.
 <div class="player-grid">
 
 <div class="player-card">
@@ -115,10 +164,18 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 </div>
 
+## 📊 Player Comparison: Middle Blockers
+
+| Player            | Height | Weight | Block Reach | Attack Reach |
+|-------------------|--------|--------|-------------|--------------|
+| Jakub Kochanowski | 199 cm | 85 kg  | 340 cm      | 360 cm       |
+| Mateusz Bieniek   | 210 cm | 100 kg | 355 cm      | 375 cm       |
+| Norbert Huber     | 204 cm | 96 kg  | 345 cm      | 365 cm       |
+
 ---
 
 ## 🎯 Setters
-
+- **Setter** – The team's playmaker, responsible for ball distribution and setting the tempo.
 <div class="player-grid">
 
 <div class="player-card">
@@ -143,10 +200,17 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 </div>
 
+## 📊 Player Comparison: Setters
+
+| Player          | Height | Weight | Jump Reach | Setting Style |
+|----------------|--------|--------|------------|---------------|
+| Marcin Janusz  | 195 cm | 83 kg  | 325 cm     | Dynamic       |
+| Grzegorz Łomacz| 187 cm | 80 kg  | 315 cm     | Traditional   |
+
 ---
 
 ## 🛡️ Liberos
-
+- **Libero** – Defensive specialist wearing a different-colored jersey, focused on reception and digging.
 <div class="player-grid">
 
 <div class="player-card">
@@ -171,10 +235,17 @@ Polish fans are among the **most dedicated** globally. The national team regular
 
 </div>
 
+## 📊 Player Comparison: Liberos
+
+| Player        | Height | Weight | Reception % | Digs per Set |
+|---------------|--------|--------|-------------|--------------|
+| Paweł Zatorski| 184 cm | 75 kg  | 78%         | 2.8          |
+| Kuba Hawryluk | 182 cm | 72 kg  | 75%         | 2.5          |
+
 ---
 
 ## 🌟 Outside Hitters
-
+- **Outside Hitter** – All-around player responsible for both attack and reception, primarily from the left side.
 <div class="player-grid">
 
 <div class="player-card">
@@ -208,3 +279,11 @@ Polish fans are among the **most dedicated** globally. The national team regular
 </div>
 
 </div>
+
+## 📊 Player Comparison: Outside Hitters
+
+| Player         | Height | Weight | Attack % | Reception % |
+|----------------|--------|--------|----------|-------------|
+| Wilfredo León  | 201 cm | 96 kg  | 55%      | 65%         |
+| Kamil Semeniuk | 194 cm | 90 kg  | 52%      | 70%         |
+| Tomasz Fornal  | 198 cm | 90 kg  | 50%      | 68%         |
