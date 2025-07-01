@@ -23,7 +23,7 @@ The main goal was to create documentation and a data visualization tool for voll
 ## 📁 Repositories
 
 - **Development Repository (DEV):** [GitHub - dev-repo](https://github.com/Nikko05/swpz.git)
-- **Production Repository (PROD):** [GitHub - prod-repo](https://github.com/Nikko05/swpz.git)
+- **Production Repository (PROD):** [GitHub - prod-repo](https://github.com/Nikko05/swpz_prod.git)
 
 ---
 
