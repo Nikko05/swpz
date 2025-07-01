@@ -5,6 +5,7 @@ nav:
   - About Me: about.md
   - Plus Liga Teams: teams.md
   - National Team of Poland: nationalTeam.md
+  - Authors: authors.md
 
 theme:
   name: material

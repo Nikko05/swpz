@@ -1,8 +1,41 @@
+# 🏐 History of PlusLiga
+
+!!! info "What is PlusLiga?"
+    **PlusLiga** is the top-tier men's volleyball league in Poland, operating under the Polish Volleyball League (PLS). It is considered one of the strongest volleyball leagues in the world.
+
+## 🔹 Origins and Development
+
+- **Year founded:** 2000 (continuation of the former *I Liga*)  
+- **Current name:** Since 2008 (referencing its sponsor – the *Plus* mobile network)  
+- **Governing organization:** Polish Volleyball League S.A.  
+
+The league gained massive popularity due to its professionalization, increased TV coverage, and the participation of international volleyball stars.
+
+## 🌍 International Success
+
+Polish teams regularly achieve success in European competitions, including:  
+
+- **ZAKSA Kędzierzyn-Koźle** – multiple-time winner of the **CEV Champions League**  
+- **Jastrzębski Węgiel** – European competition finalist and Polish champion  
+
+## 🎯 League Structure
+
+- **Number of teams:** 14  
+- **Season format:** Regular season + playoffs  
+- **Goal:** Crown the **Polish Champion**  
+
+Matches attract thousands of fans in arenas and hundreds of thousands of viewers on screens.  
+
+---
+
+📝 *PlusLiga is more than just sports – it's a spectacle, emotions, and a source of pride for Polish volleyball.*  
+
+---
+
 # 🏐 Drużyny PlusLigi
 
 <div class="teams-grid">
 
-<!-- Karta 1 -->
 <div class="team-card">
   <h3>🟠 Jastrzębski Węgiel</h3>
   <p><strong>Miasto:</strong> Jastrzębie-Zdrój</p>
@@ -20,7 +53,6 @@
   <a href="statystyki.md#jastrzebski" class="md-button">Zobacz statystyki</a>
 </div>
 
-<!-- Karta 2 -->
 <div class="team-card">
   <h3>🔵 ZAKSA Kędzierzyn-Koźle</h3>
   <p><strong>Miasto:</strong> Kędzierzyn-Koźle</p>
@@ -37,7 +69,6 @@
   <a href="statystyki.md#zaksa" class="md-button">Zobacz statystyki</a>
 </div>
 
-<!-- Karta 3 -->
 <div class="team-card">
   <h3>🟢 Projekt Warszawa</h3>
   <p><strong>Miasto:</strong> Warszawa</p>
@@ -54,7 +85,6 @@
   <a href="statystyki.md#warszawa" class="md-button">Zobacz statystyki</a>
 </div>
 
-<!-- Karta 4 -->
 <div class="team-card">
   <h3>🟣 Aluron CMC Warta Zawiercie</h3>
   <p><strong>Miasto:</strong> Zawiercie</p>
@@ -71,7 +101,6 @@
   <a href="statystyki.md#zawiercie" class="md-button">Zobacz statystyki</a>
 </div>
 
-<!-- Dodane drużyny -->
 <div class="team-card">
   <h3>🔴 Asseco Resovia Rzeszów</h3>
   <p><strong>Miasto:</strong> Rzeszów</p>

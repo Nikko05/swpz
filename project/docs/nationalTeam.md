@@ -1,8 +1,45 @@
-# 🇵🇱 Poland National Volleyball Team
+# 🇵🇱 History of the Polish Men's Volleyball National Team
 
-We proudly present the Polish men's national volleyball team, grouped by positions.
+!!! info "Who is the Polish National Team?"
+    **The Polish men's volleyball national team** is one of the most decorated national teams in the world. Known for its passion, fighting spirit, and a massive fan base.
+
+## 🔹 Beginnings
+
+- **First match:** 1948 (against Czechoslovakia)  
+- **First medal:** Bronze at the 1967 European Championship  
+- **Golden eras:** 1970s and the 21st century  
+
+The team developed under the guidance of legendary coaches like Hubert Wagner, Raul Lozano, Vital Heynen, and Nikola Grbić.
+
+## 🏆 Greatest Achievements
+
+| Tournament | Achievement | Year(s) |
+|------------|-------------|---------|
+| **Olympic Games** | 🥇 Gold medal | 1976 (Montreal) |
+| **World Championships** | 🥇 Gold medal | 1974, 2014, 2018 |
+| **European Championships** | 🥇 Gold medal | 2009 |
+| **Volleyball Nations League** | 🥇 Gold medal | 2023 |
+| **World Cup** | 🥈 Silver medal | 2011, 2019 |
+
+## 🎯 Current Structure
+
+- **Head Coach:** Nikola Grbić  
+- **Captain:** Bartosz Kurek  
+- **Star Players:** Wilfredo León, Bartosz Kurek, Paweł Zatorski, Marcin Janusz  
+- **Extended squad size:** ~25 players  
+- **Players selected for tournaments:** 14  
+
+The team is known for frequent roster rotations and versatile players competing in the world's top leagues.
+
+## 🏟️ Culture and Fans
+
+Polish fans are among the **most dedicated** globally. The national team regularly plays to sold-out arenas, with matches broadcast to millions of viewers.
 
 ---
+
+🎉 *The White and Reds are a volleyball powerhouse and ambassadors of Poland on the international stage.*
+
+# 🏐 Current Polish National Team Squad
 
 ## 🚀 Attacking
 
