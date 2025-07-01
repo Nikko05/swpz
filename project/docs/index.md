@@ -17,8 +17,8 @@ Welcome to **Polish Volleyball Hub**, your central source for everything about *
 
 - [About Us](about.md)
 - [PlusLiga Teams](teams.md)
-- [National Poland Team](nationaltTeam.md)
-
+- [National Poland Team](nationalTeam.md)
+- [Authors](authors.md)
 ---
 
 ## 📰 Latest Updates
